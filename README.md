@@ -4,6 +4,12 @@ This is a full-stack application designed to help you track and manage communica
 
 ---
 
+## Preview
+
+[![Preview](https://img.shields.io/badge/Preview-Green?style=for-the-badge&logo=appveyor&color=34D399)](https://calendar-x.netlify.app/)
+
+---
+
 ## Table of Contents
 
 - [Introduction](#introduction)
